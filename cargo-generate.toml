@@ -1,3 +1,2 @@
 [placeholders]
-project_name = { prompt = "Press enter", default = "aoc_daily_template" }
 day = { prompt = "Enter the day", type = "string", regex = "[0-2][0-9]" }
