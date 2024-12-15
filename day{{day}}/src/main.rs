@@ -9,7 +9,7 @@ pub fn main() {
 }
 
 #[cfg(test)]
-mod tests_day_{{day}} {
+mod tests_day_{{ day }} {
     use crate::run;
     #[test]
     fn test() {
