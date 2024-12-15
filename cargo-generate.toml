@@ -1,0 +1,2 @@
+[placeholders]
+placeholder_name = { prompt = "Enter the day", type = "string", regex = "[0-2][0-9]" }
